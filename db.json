@@ -1,0 +1,16 @@
+{
+    "fruits": [
+        {
+            "id": 1,
+            "fruit": "fruit",
+            "description": "description",
+            "available": true
+        },
+        {
+            "id": 2,
+            "fruit": "fruit2",
+            "description": "description2",
+            "available": false
+        }
+    ]
+}
