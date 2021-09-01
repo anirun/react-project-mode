@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  color: cyan;
+  font-style: oblique;
+}
+
+h3 {
+  color: darkcyan;
+  font-style: italic;
+}
